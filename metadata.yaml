@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33652'
     url: http://www.gutenberg.org/2009/agents/33652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29039#Um-brado-contra-as-monterias-de-cerco-aos-Lobos-na-Provincia-do-Alemtejo
 gutenberg_issued: '2009-06-05'
 gutenberg_type: Text
 identifiers:
